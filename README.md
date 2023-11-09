@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Marios Panaretos
-- 👀 I’m interested in Full Stack Web Development and Ruby on Rails
-- 🌱 I’m currently learning about Web Development on The Odin Project
-- 💞️ I’m looking to collaborate on Web Development with Rails and React preferably and on stuff about The Odin Project
+- 👀 I’m interested in Backend Web Development and .NET
+- 🌱 I’m currently learning about C# and .NET
+- 💞️ I’m looking to collaborate on Backend Projects with C# and .NET
 - 📫 How to reach me my Discord public name is TheMartianDeveloper and my real Discord name is python_programmer69
 
 <!---
